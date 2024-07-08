@@ -24195,22 +24195,22 @@ class rM {
 }
 const oM = [{
         id: 0,
-        name: "sstudypoint",
-        description: "Coaching classes website",
-        image: "images/projects/sstudy point.jpg",
+        name: "Think-Beyond-Marketing",
+        description: "Digital Marketing Agency",
+        image: "images/projects/marketing-agency.png",
         tags: ["javascript", "backend", "html", "css"],
-        liveview: "https://sstudypoint.in/",
-        github: "https://github.com/satvik9373/studypoint111.git",
-        alt: "Coaching classes website"
+        liveview: "https://think-beyond-marketing.netlify.app/",
+        github: "https://github.com/satvik9373/Think-Beyond-Marketing",
+        alt: "Digital Marketing Agency"
     }, {
         id: 1,
-        name: "Guru-Drishti-Kala-Kendra",
-        description: "A traditional dance classes Website",
-        image: "images/projects/guru-drishti.jpg",
-        tags: ["javascript", "html", "css"],
-        liveview: "https://guru-drishti-kala-kendra.netlify.app/",
-        github: "https://github.com/satvik9373/Guru-Drishti-Kala-Kendra.git",
-        alt: "A traditional dance classes Website"
+        name: "Hustlers27",
+        description: "Affiliate Marketing and earning Website",
+        image: "images/projects/affiliate.jpg",
+        tags: ["javascript", "css", "backend"],
+        liveview: "https://www.hustlers27.com/",
+        github: "https://github.com/satvik9373/lms-websitee",
+        alt: "Affiliate Marketing and earning Website"
     }, {
         id: 2,
         name: "Rudra-Fitness",
@@ -24329,20 +24329,20 @@ class lM {
     }
 }
 const cM = [{
-    name: "WebGL",
-    width: "60%"
-}, {
-    name: "ReactJS",
-    width: "65%"
-}, {
     name: "JavaScript",
+    width: "80%"
+}, {
+    name: "Html + Css",
+    width: "70%"
+}, {
+    name: "react-native",
     width: "85%"
 }, {
-    name: "HTML + CSS",
+    name: "js - frameworks",
     width: "90%"
 }, {
-    name: "3D Modelling",
-    width: "60%"
+    name: "backend",
+    width: "75%"
 }];
 class hM {
     constructor() {
