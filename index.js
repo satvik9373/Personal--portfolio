@@ -24195,22 +24195,22 @@ class rM {
 }
 const oM = [{
         id: 0,
-        name: "Think-Beyond-Marketing",
-        description: "Digital Marketing Agency",
-        image: "images/projects/marketing-agency.png",
-        tags: ["javascript", "backend", "html", "css"],
-        liveview: "https://think-beyond-marketing.netlify.app/",
-        github: "https://github.com/satvik9373/Think-Beyond-Marketing",
-        alt: "Digital Marketing Agency"
-    }, {
-        id: 1,
         name: "Hustlers27",
         description: "Affiliate Marketing and earning Website",
-        image: "images/projects/affiliate.jpg",
+        image: "images/projects/hustlers.png",
         tags: ["javascript", "css", "backend"],
         liveview: "https://www.hustlers27.com/",
         github: "https://github.com/satvik9373/lms-websitee",
         alt: "Affiliate Marketing and earning Website"
+    }, {
+        id: 1,
+        name: "Carz-Club",
+        description: "Car Marketplace website",
+        image: "images/projects/carslogo.jpeg",
+        tags: ["javascript", "css", "backend"],
+        liveview: "https://carz-club.vercel.app/",
+        github: "https://github.com/satvik9373/CARZ-CLUB",
+        alt: "Car Marketplace website"
     }, {
         id: 2,
         name: "Rudra-Fitness",
@@ -24329,19 +24329,19 @@ class lM {
     }
 }
 const cM = [{
-    name: "JavaScript",
+    name: "Html + Css",
     width: "80%"
 }, {
-    name: "Html + Css",
+    name: "Javascript",
     width: "70%"
 }, {
-    name: "react-native",
+    name: "C++",
     width: "85%"
 }, {
-    name: "js - frameworks",
+    name: "Python",
     width: "90%"
 }, {
-    name: "backend",
+    name: "Backend",
     width: "75%"
 }];
 class hM {
